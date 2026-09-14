@@ -1,4 +1,4 @@
-# Revision Knee Network analysis
+# Revision Knee Network Analysis
 
 Stata code used to clean and analyse National Joint Registry (NJR) data for the Revision Knee Network report.
 
